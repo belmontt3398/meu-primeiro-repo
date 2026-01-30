@@ -24,4 +24,4 @@ The goal of this repository was to practice and document the core Git workflow:
 ---
 
 ### 👋 Connect with me
-[LinkedIn](YOUR_LINKEDIN_URL_HERE) | [GitHub Profile](https://github.com/Allysson-Rodrigues)
+[GitHub Profile](https://github.com/Allysson-Rodrigues)
